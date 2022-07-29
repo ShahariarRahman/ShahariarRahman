@@ -3,7 +3,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=48&duration=7000&color=26B2C9&center=true&vCenter=true&multiline=true&width=1500&height=200&lines=Hello+there!%F0%9F%91%8B%2C+I'm+Md.+Shahariar+Rahman;working+as+a+frontend+developer)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahariarrahman&label=Profile%20views&color=0e75b6&style=flat" alt="shahariarrahman" /> </p>
+
+<p align="center">
+  <img alt = "PROFILE VIEWS" src="https://komarev.com/ghpvc/?username=shahariarrahman&color=brightgreen&style=plastic&label=PROFILE+VIEWS"> •   
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/shahariarrahman?label=FOLLOWERS&style=plastic"> •
+  <img src="https://img.shields.io/github/stars/shahariarrahman?label=STARS&style=plastic" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
+  <a href="https://github.com/sponsors/shahariarrahman"><img src="https://img.shields.io/static/v1?label=SPONSOR&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86&style=plastic"/></a>
+</p>
+
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/a85c0dcdcc774c6f340b07518363d6fb.gif"/>
 
