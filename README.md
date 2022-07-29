@@ -9,36 +9,31 @@
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/shahariarrahman?label=FOLLOWERS&style=plastic"> •
   <img src="https://img.shields.io/github/stars/shahariarrahman?label=STARS&style=plastic" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
   <a href="https://github.com/sponsors/shahariarrahman"><img src="https://img.shields.io/static/v1?label=SPONSOR&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86&style=plastic"/></a><br><br>
-  
 </h1>
 
 <br>
-
 <img height="220" width="400" align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/a85c0dcdcc774c6f340b07518363d6fb.gif"/>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-<!-- - 🌱 I’m currently learning **Redux**
-
-- 👨‍💻 All of my projects are available at [https://my-portfolio-7e514.web.app](https://my-portfolio-7e514.web.app)
-
-- 💬 Ask me about **React, MERN**
-
-- 📫 How to reach me **shahariarrahman98@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FxRPKE9qWlRZWjyEHMib-rFgef3LcgtA/view](https://drive.google.com/file/d/1FxRPKE9qWlRZWjyEHMib-rFgef3LcgtA/view) -->
 
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 about **𝙵𝚞𝚕𝚕 𝚂𝚝𝚊𝚌𝚔 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚖𝚎𝚗𝚝.**
 - 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝙵𝚞𝚕𝚕 𝚂𝚝𝚊𝚌𝚔 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚖𝚎𝚗𝚝.**
-- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://www.linkedin.com/in/mdshahariarrahman/) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
+- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [𝚑𝚎𝚛𝚎](https://www.linkedin.com/in/mdshahariarrahman/) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 - 👨‍ 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.**
-- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 𝙴𝚗𝚍𝚜.***
-- 📄 𝙺𝚗𝚘𝚠 𝚊𝚋𝚘𝚞𝚝 𝚖𝚢 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜 : [here](https://drive.google.com/file/d/1FxRPKE9qWlRZWjyEHMib-rFgef3LcgtA/view)
+- 😄 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : 𝚆𝚑𝚎𝚗 𝚗𝚘𝚝𝚑𝚒𝚗𝚐 𝚐𝚘𝚎𝚜 𝚛𝚒𝚐𝚑𝚝 : **𝚐𝚘 𝚕𝚎𝚏𝚝**
+- 📄 𝙺𝚗𝚘𝚠 𝚊𝚋𝚘𝚞𝚝 𝚖𝚢 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜 : [𝚑𝚎𝚛𝚎](https://drive.google.com/file/d/1FxRPKE9qWlRZWjyEHMib-rFgef3LcgtA/view)
 
 <br/>
-<br/>
+<h1></h1>
 
+<h1 align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shahariarrahman&&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh">
+</h1>
+<h1 align="center">
+  <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/left.webp">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahariarrahman&theme=dark&hide_border=true"/>
+  <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/right.webp">
+  <br/> <br/>
+</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
