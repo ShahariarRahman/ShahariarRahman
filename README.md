@@ -1,22 +1,24 @@
 [![MasterHead](https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png)](https://rishavchanda.io)
 
+<h1></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=48&duration=7000&color=26B2C9&center=true&vCenter=true&multiline=true&width=1500&height=200&lines=Hello+there!%F0%9F%91%8B%2C+I'm+Md.+Shahariar+Rahman;working+as+a+frontend+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=48&duration=7000&color=26B2C9&center=true&vCenter=true&multiline=true&width=1500&height=125&lines=Hello+there!%F0%9F%91%8B%2C+I'm+Md.+Shahariar+Rahman;working+as+a+frontend+developer)](https://git.io/typing-svg)
 
-
-<p align="center">
+<h1 align="center">
   <img alt = "PROFILE VIEWS" src="https://komarev.com/ghpvc/?username=shahariarrahman&color=brightgreen&style=plastic&label=PROFILE+VIEWS"> •   
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/shahariarrahman?label=FOLLOWERS&style=plastic"> •
   <img src="https://img.shields.io/github/stars/shahariarrahman?label=STARS&style=plastic" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
-  <a href="https://github.com/sponsors/shahariarrahman"><img src="https://img.shields.io/static/v1?label=SPONSOR&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86&style=plastic"/></a>
-</p>
+  <a href="https://github.com/sponsors/shahariarrahman"><img src="https://img.shields.io/static/v1?label=SPONSOR&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86&style=plastic"/></a><br><br>
+  
+</h1>
 
+<br>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/a85c0dcdcc774c6f340b07518363d6fb.gif"/>
+<img height="220" width="400" align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/a85c0dcdcc774c6f340b07518363d6fb.gif"/>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Redux**
+<!-- - 🌱 I’m currently learning **Redux**
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-7e514.web.app](https://my-portfolio-7e514.web.app)
 
@@ -24,7 +26,18 @@
 
 - 📫 How to reach me **shahariarrahman98@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FxRPKE9qWlRZWjyEHMib-rFgef3LcgtA/view](https://drive.google.com/file/d/1FxRPKE9qWlRZWjyEHMib-rFgef3LcgtA/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1FxRPKE9qWlRZWjyEHMib-rFgef3LcgtA/view](https://drive.google.com/file/d/1FxRPKE9qWlRZWjyEHMib-rFgef3LcgtA/view) -->
+
+- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
+- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 about **𝙵𝚞𝚕𝚕 𝚂𝚝𝚊𝚌𝚔 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚖𝚎𝚗𝚝.**
+- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝙵𝚞𝚕𝚕 𝚂𝚝𝚊𝚌𝚔 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚖𝚎𝚗𝚝.**
+- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://www.linkedin.com/in/mdshahariarrahman/) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
+- 👨‍ 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.**
+- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 𝙴𝚗𝚍𝚜.***
+- 📄 𝙺𝚗𝚘𝚠 𝚊𝚋𝚘𝚞𝚝 𝚖𝚢 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜 : [here](https://drive.google.com/file/d/1FxRPKE9qWlRZWjyEHMib-rFgef3LcgtA/view)
+
+<br/>
+<br/>
 
 
 <h3 align="left">Connect with me:</h3>
