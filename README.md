@@ -1,6 +1,7 @@
 [![MasterHead](https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png)](https://rishavchanda.io)
-<h1 align="center">Hello there!👋, I'm Md. Shahariar Rahman</h1>
-<h3 align="center">Enthusiastic frontend Developer from Bangladesh</h3>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=48&duration=7000&color=26B2C9&center=true&vCenter=true&multiline=true&width=1500&height=200&lines=Hello+there!%F0%9F%91%8B%2C+I'm+Md.+Shahariar+Rahman;working+as+a+frontend+developer)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahariarrahman&label=Profile%20views&color=0e75b6&style=flat" alt="shahariarrahman" /> </p>
 
