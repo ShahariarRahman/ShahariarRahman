@@ -74,10 +74,5 @@
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahariarrahman&show_icons=true&locale=en&layout=compact" alt="shahariarrahman" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahariarrahman&show_icons=true&locale=en" alt="shahariarrahman" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahariarrahman&" alt="shahariarrahman" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahariarrahman" alt="shahariarrahman" /></a> </p>
-
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/Md. Shahariar Rahman"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Md. Shahariar Rahman" /></a></p><br><br>
