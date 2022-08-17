@@ -109,30 +109,34 @@
 
 Languages: 
 
-![C](https://img.shields.io/badge/C-202124?style=for-the-badge&logo=c&logoColor=%23F7DF1E)
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Nodejs](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
-![Typescropt](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)<h1></h1>
+![C](https://img.shields.io/badge/C-202124?style=for-the-badge&logo=c&logoColor=035494)
+![Java](https://img.shields.io/badge/Java-202124?style=for-the-badge&logo=java&logoColor=db6900)
+![Python](https://img.shields.io/badge/Python-202124?style=for-the-badge&logo=python&logoColor=f2c53d)
+![Javascript](https://img.shields.io/badge/javascript-202124?&style=for-the-badge&logo=javascript&logoColor=e4d04b)
+![Typescropt](https://img.shields.io/badge/TypeScript-202124?style=for-the-badge&logo=typescript&logoColor=2f72bc)
+![Nodejs](https://img.shields.io/badge/node.js-202124?&style=for-the-badge&logo=node.js&logoColor=7cc327)
+![HTML5](https://img.shields.io/badge/html5-202124?style=for-the-badge&logo=html5&logoColor=e5542f)
+![CSS3](https://img.shields.io/badge/css3-202124?style=for-the-badge&logo=css3&logoColor=0088ca)
+![PHP](https://img.shields.io/badge/php-202124?style=for-the-badge&logo=php&logoColor=4b568b)
+<h1></h1>
 
 Frameworks & library:
 
-![Reactjs](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
-![Material ui](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![jwt](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) <h1></h1>
+![Create React App](https://img.shields.io/badge/Create_React_App-202124?style=for-the-badge&logo=Create-React-App&logoColor=09D3AC)
+![Reactjs](https://img.shields.io/badge/react-202124?&style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Router](https://img.shields.io/badge/React_Router-202124?style=for-the-badge&logo=react-router&logoColor=CA4245)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-202124?style=for-the-badge&logo=React-Hook-Form&logoColor=EC5990)
+![React Query](https://img.shields.io/badge/React_Query-202124?style=for-the-badge&logo=React-Query&logoColor=FF4154)
+![tailwind](https://img.shields.io/badge/Tailwind_CSS-202124?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
+![daisyUI](https://img.shields.io/badge/Daisy_UI-202124?style=for-the-badge&logo=tailwind-css&logoColor=550deb)
+![Bootstrap](https://img.shields.io/badge/bootstrap-202124?&style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+![Material UI](https://img.shields.io/badge/Material_UI-202124?style=for-the-badge&logo=mui&logoColor=007FFF)
+![Express](https://img.shields.io/badge/Express.js-202124?style=for-the-badge&logo=express&logoColor=000000)
+![jwt](https://img.shields.io/badge/JWT-202124?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=000000)
+![NPM](https://img.shields.io/badge/npm-202124?style=for-the-badge&logo=npm&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-202124?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Nextjs](https://img.shields.io/badge/next.js-202124?style=for-the-badge&logo=nextdotjs&logoColor=white)
+<h1></h1>
     
 Application and Tools:
 
