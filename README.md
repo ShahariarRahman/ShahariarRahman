@@ -1,4 +1,4 @@
-[![MasterHead](https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png)](https://rishavchanda.io)
+[![MasterHead](https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png)](https://mdshahariarrahman.netlify.app/)
 
 <h1></h1>
 
@@ -122,39 +122,44 @@ Languages:
 
 Frameworks & library:
 
-![Create React App](https://img.shields.io/badge/Create_React_App-202124?style=for-the-badge&logo=Create-React-App&logoColor=09D3AC)
 ![Reactjs](https://img.shields.io/badge/react-202124?&style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-202124?style=for-the-badge&logo=react-router&logoColor=CA4245)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-202124?style=for-the-badge&logo=React-Hook-Form&logoColor=EC5990)
+![Create React App](https://img.shields.io/badge/Create_React_App-202124?style=for-the-badge&logo=Create-React-App&logoColor=09D3AC)
 ![React Query](https://img.shields.io/badge/React_Query-202124?style=for-the-badge&logo=React-Query&logoColor=FF4154)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-202124?style=for-the-badge&logo=React-Hook-Form&logoColor=EC5990)
+![Nextjs](https://img.shields.io/badge/next.js-202124?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-202124?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![tailwind](https://img.shields.io/badge/Tailwind_CSS-202124?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
 ![daisyUI](https://img.shields.io/badge/Daisy_UI-202124?style=for-the-badge&logo=tailwind-css&logoColor=550deb)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-202124?&style=for-the-badge&logo=bootstrap&logoColor=7952B3)
 ![Material UI](https://img.shields.io/badge/Material_UI-202124?style=for-the-badge&logo=mui&logoColor=007FFF)
-![Express](https://img.shields.io/badge/Express.js-202124?style=for-the-badge&logo=express&logoColor=000000)
-![jwt](https://img.shields.io/badge/JWT-202124?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=000000)
-![NPM](https://img.shields.io/badge/npm-202124?style=for-the-badge&logo=npm&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-202124?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Nextjs](https://img.shields.io/badge/next.js-202124?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-202124?style=for-the-badge&logo=express&logoColor=e4d04b)
+![jwt](https://img.shields.io/badge/JWT-202124?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=ee0156)
+![NPM](https://img.shields.io/badge/npm-202124?style=for-the-badge&logo=npm&logoColor=CB3837)
+
 <h1></h1>
     
 Application and Tools:
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-<img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="typescript" height="27"/> 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-<img src="https://aleen42.github.io/badges/src/photoshop.svg?style=for-the-badge" alt="typescript" height="27"/> 
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Xmapp](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white) <h1></h1>
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-202124?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![Git](https://img.shields.io/badge/git-202124?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/github-202124?style=for-the-badge&logo=github&logoColor=000000)
+![Figma](https://img.shields.io/badge/Figma-202124?style=for-the-badge&logo=Figma&logoColor=F24E1E)
+![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-202124?style=for-the-badge&logo=Google-chrome&logoColor=dd3123)
+![Firebase](https://img.shields.io/badge/Firebase-202124?style=for-the-badge&logo=Firebase&logoColor=FFCA28)
+![Netlify](https://img.shields.io/badge/Netlify-202124?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+![Heroku](https://img.shields.io/badge/Heroku-202124?style=for-the-badge&logo=heroku&logoColor=625d9d)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-202124?style=for-the-badge&logo=microsoft-office&logoColor=D83B01)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-202124?style=for-the-badge&logo=Adobe-Photoshop&logoColor=31A8FF)
+![Windows](https://img.shields.io/badge/Windows-202124?style=for-the-badge&logo=windows&logoColor=0078D6)
+![Wondershare_Filmora](https://img.shields.io/badge/Wondershare_Filmora-202124?style=for-the-badge&logo=Filmora&logoColor=0078D6)
+<h1></h1>
 
 Databases:
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) <h1></h1>
+![MongoDB](https://img.shields.io/badge/MongoDB-202124?&style=for-the-badge&logo=mongodb&logoColor=47A248) 
+![MySQL](https://img.shields.io/badge/MySQL-202124?style=for-the-badge&logo=mysql&logoColor=4479A1)
+<h1></h1>
 </p>
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/Md. Shahariar Rahman"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Md. Shahariar Rahman" /></a></p><br><br>
