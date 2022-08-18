@@ -139,7 +139,7 @@ Databases:
      <a href="https://www.facebook.com/shahariarrahman98/">
        <img src="https://img.shields.io/badge/facebook-1b74e4.svg?style=for-the-badge&logo=facebook&logoColor=ffffff"/>
   </a>
-     <a href="shahariarrahman98@gmail.com">
+     <a href="https://mdshahariarrahman.netlify.app/">
        <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=ffffff"/>
   </a>
 </p>
