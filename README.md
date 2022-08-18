@@ -134,12 +134,9 @@ Databases:
   <h3 align="center">Connect with me:</h3>
  <p align="center">
     <a href="https://www.linkedin.com/in/mdshahariarrahman/">
-      <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/>
+      <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=ffffff"/>
   </a>
-     <a href="https://www.facebook.com/shahariarrahman98/">
-       <img src="https://img.shields.io/badge/facebook-1b74e4.svg?style=for-the-badge&logo=facebook&logoColor=ffffff"/>
-  </a>
-     <a href="https://mdshahariarrahman.netlify.app/">
-       <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=ffffff"/>
+    <a href="https://mdshahariarrahman.netlify.app/">
+       <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139"/>
   </a>
 </p>
