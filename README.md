@@ -72,8 +72,6 @@
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=shahariarRahman&theme=xcode&hide_border=true" /> </div>
 <h1></h1>
 
-<p align="center">
-
 Languages: 
 
 ![C](https://img.shields.io/badge/C-202124?style=for-the-badge&logo=c&logoColor=035494)
@@ -105,6 +103,11 @@ Frameworks & library:
 ![NPM](https://img.shields.io/badge/npm-202124?style=for-the-badge&logo=npm&logoColor=CB3837)
 
 <h1></h1>
+Databases:
+
+![MongoDB](https://img.shields.io/badge/MongoDB-202124?&style=for-the-badge&logo=mongodb&logoColor=47A248) 
+![MySQL](https://img.shields.io/badge/MySQL-202124?style=for-the-badge&logo=mysql&logoColor=4479A1)
+<h1></h1>
     
 Application and Tools:
 
@@ -122,12 +125,7 @@ Application and Tools:
 ![Wondershare_Filmora](https://img.shields.io/badge/Wondershare_Filmora-202124?style=for-the-badge&logo=Filmora&logoColor=0078D6)
 <h1></h1>
 
-Databases:
 
-![MongoDB](https://img.shields.io/badge/MongoDB-202124?&style=for-the-badge&logo=mongodb&logoColor=47A248) 
-![MySQL](https://img.shields.io/badge/MySQL-202124?style=for-the-badge&logo=mysql&logoColor=4479A1)
-<h1></h1>
-</p>
 
 
 <p>
