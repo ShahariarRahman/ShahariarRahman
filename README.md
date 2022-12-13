@@ -100,11 +100,10 @@
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahariarRahman&theme=darcula&hide_border=true" />
 </h1> 
 
-<h1 align="center">
-  <img src="https://activity-graph.herokuapp.com/graph.cyclic.app?username=shahariarRahman&theme=xcode&hide_border=true" />
-</h1>
+ 
+<h1 align="center"><img src="https://activity-graph.herokuapp.com/graph?username=shahariarRahman&theme=xcode&hide_border=true" /></h1>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=shahariarRahman&theme=xcode&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p>
   <h3 align="center">𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎:</h3>
