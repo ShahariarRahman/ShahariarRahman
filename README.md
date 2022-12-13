@@ -99,6 +99,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShahariarRahman&theme=darcula&hide_border=true"/>
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahariarRahman&theme=darcula&hide_border=true" />
 </h1> 
+
 <h1 align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=shahariarRahman&theme=xcode&hide_border=true" />
 </h1>
