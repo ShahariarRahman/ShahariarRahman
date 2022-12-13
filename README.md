@@ -102,7 +102,8 @@
 
  
 <h1 align="center"><img src="https://activity-graph.herokuapp.com/graph?username=shahariarRahman&theme=xcode&hide_border=true" /></h1>
-<h1 align="center"><img src="[https://activity-graph.herokuapp.com/graph?username=shahariarRahman&theme=xcode&hide_border=true](https://github-readme-activity-graph.cyclic.app/graph?username=shahariarRahman&theme=xcode&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)" /></h1>
+
+<h1 align="center"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=shahariarRahman&theme=xcode&hide_border=true)" /></h1>
 
 (https://github-readme-activity-graph.cyclic.app/graph?username=shahariarRahman&theme=xcode&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
