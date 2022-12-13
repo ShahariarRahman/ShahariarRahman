@@ -101,7 +101,7 @@
 </h1> 
 
 <h1 align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=shahariarRahman&theme=xcode&hide_border=true" />
+  <img src="https://activity-graph.herokuapp.com/graph.cyclic.app?username=shahariarRahman&theme=xcode&hide_border=true" />
 </h1>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
