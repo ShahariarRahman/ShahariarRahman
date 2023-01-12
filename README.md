@@ -96,8 +96,17 @@
   <img src="https://github-profile-trophy.vercel.app/?username=shahariarrahman&&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh">
 </h1> 
 <h1 align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShahariarRahman&theme=darcula&hide_border=true"/>
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahariarRahman&theme=darcula&hide_border=true" />
+    <img 
+         align="center"
+         alt="Md. Shahariar Rahman's github stats"
+         src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ShahariarRahman&theme=darcula&hide_border=true&count_private=true"
+     />
+    <img 
+         align="center" 
+         height="195px" 
+         alt="Most Used Language"
+         src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ShahariarRahman&theme=darcula&hide_border=true" 
+     />
 </h1> 
 
 
