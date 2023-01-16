@@ -93,7 +93,7 @@
 </p>
 <h1></h1>
 <h1 align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shahariarrahman&&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh">
+  <img src="https://github-profile-trophy.vercel.app?username=shahariarrahman&&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh">
 </h1> 
 <h1 align="center">
     <img 
