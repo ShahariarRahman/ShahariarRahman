@@ -109,9 +109,7 @@
      />
 </h1> 
 
-
-<h1 align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ashutosh00710&hide_border=true&theme=xcode" /></h1>
-
+<h1 align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ShahariarRahman&hide_border=true&theme=xcode&count_private=true" /></h1>
  
 <p>
   <h3 align="center">𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎:</h3>
