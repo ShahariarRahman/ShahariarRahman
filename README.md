@@ -99,13 +99,13 @@
     <img 
          align="center"
          alt="Md. Shahariar Rahman's github stats"
-         src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ShahariarRahman&theme=darcula&hide_border=true&count_private=true"
+         src="https://github-readme-stats.vercel.app/api?username=ShahariarRahman&show_icons=true&theme=darcula&hide_border=true&count_private=true&icon_color=777777"
      />
     <img 
          align="center" 
          height="195px" 
          alt="Most Used Language"
-         src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ShahariarRahman&theme=darcula&hide_border=true" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahariarRahman&theme=darcula&hide_border=true" 
      />
 </h1> 
 
@@ -121,3 +121,6 @@
         <img src="https://img.shields.io/badge/Portfolio-202124?style=for-the-badge&logo=firefox&logoColor=FF7139"/>
     </a>
 </p>
+
+
+
