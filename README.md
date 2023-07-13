@@ -2,7 +2,7 @@
   <img src="https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png"/>
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=48&duration=7000&color=26B2C9&center=true&vCenter=true&multiline=true&width=1500&height=125&lines=Hello+there!%F0%9F%91%8B%2C+I'm+Md.+Shahariar+Rahman;working+as+a+frontend+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=48&duration=7000&color=26B2C9&center=true&vCenter=true&multiline=true&width=1500&height=125&lines=Hello+there!%F0%9F%91%8B%2C+I'm+Md.+Shahariar+Rahman;working+as+a+mern+stack+developer)](https://git.io/typing-svg)
 
 <br/>
 <img height="220" width="400" align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/a85c0dcdcc774c6f340b07518363d6fb.gif"/>
