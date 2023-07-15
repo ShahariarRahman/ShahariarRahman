@@ -43,7 +43,9 @@
 <ins>Frameworks & library:</ins>
   <p  align="center">
     <img src="https://img.shields.io/badge/react-202124?&style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    <img src="https://img.shields.io/badge/Redux-202124?&style=for-the-badge&logo=redux&logoColor=593D88"/>
     <img src="https://img.shields.io/badge/React_Router-202124?style=for-the-badge&logo=react-router&logoColor=CA4245"/>
+    <img src="https://img.shields.io/badge/Vite-202124?style=for-the-badge&logo=Vite&logoColor=FFD62E"/>
     <img src="https://img.shields.io/badge/Create_React_App-202124?style=for-the-badge&logo=Create-React-App&logoColor=09D3AC"/>
     <img src="https://img.shields.io/badge/React_Query-202124?style=for-the-badge&logo=React-Query&logoColor=FF4154"/>
     <img src="https://img.shields.io/badge/React_Hook_Form-202124?style=for-the-badge&logo=React-Hook-Form&logoColor=EC5990"/>
@@ -78,9 +80,10 @@
     <img src="https://img.shields.io/badge/Firebase-202124?style=for-the-badge&logo=Firebase&logoColor=FFCA28"/>
     <img src="https://img.shields.io/badge/Netlify-202124?style=for-the-badge&logo=netlify&logoColor=00C7B7"/>
     <img src="https://img.shields.io/badge/Heroku-202124?style=for-the-badge&logo=heroku&logoColor=625d9d"/>
+    <img src="https://img.shields.io/badge/Vercel-202124?style=for-the-badge&logo=vercel&logoColor=000000"/>
     <img src="https://img.shields.io/badge/Microsoft_Office-202124?style=for-the-badge&logo=microsoft-office&logoColor=D83B01"/>
     <img src="https://img.shields.io/badge/Adobe_Photoshop-202124?style=for-the-badge&logo=Adobe-Photoshop&logoColor=31A8FF"/>
-    <img src="https://img.shields.io/badge/Windows-202124?style=for-the-badge&logo=windows&logoColor=0078D6"/>
+    <img src="https://img.shields.io/badge/Windows_11-202124?style=for-the-badge&logo=windows-11&logoColor=0078d4"/>
     <img src="https://img.shields.io/badge/Wondershare_Filmora-202124?style=for-the-badge&logo=Filmora&logoColor=0078D6"/>
   </p>
 </p>
