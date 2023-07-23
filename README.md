@@ -58,7 +58,6 @@
     <img src="https://img.shields.io/badge/Express.js-202124?style=for-the-badge&logo=express&logoColor=e4d04b"/>
     <img src="https://img.shields.io/badge/JWT-202124?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=ee0156"/>
     <img src="https://img.shields.io/badge/npm-202124?style=for-the-badge&logo=npm&logoColor=CB3837"/>
-    <img src="https://img.shields.io/badge/npm-202124?style=for-the-badge&logo=npm&logoColor=CB3837"/>
     <img src="https://img.shields.io/badge/eslint-202124?style=for-the-badge&logo=eslint&logoColor=3A33D1"/>
     <img src="https://img.shields.io/badge/prettier-202124?style=for-the-badge&logo=prettier&logoColor=F7BA3E"/>
   </p>
