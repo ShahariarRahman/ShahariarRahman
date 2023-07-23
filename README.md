@@ -28,7 +28,7 @@
 <ins>Languages:</ins>
   <p  align="center">
     <img src="https://img.shields.io/badge/C-202124?style=for-the-badge&logo=c&logoColor=035494"/>
-    <img src="https://img.shields.io/badge/Java-202124?style=for-the-badge&logo=java&logoColor=db6900"/>
+    <img src="https://img.shields.io/badge/Java-202124?style=for-the-badge&logo=openjdk&logoColor=db6900"/>
     <img src="https://img.shields.io/badge/Python-202124?style=for-the-badge&logo=python&logoColor=f2c53d"/>
     <img src="https://img.shields.io/badge/javascript-202124?&style=for-the-badge&logo=javascript&logoColor=e4d04b"/>
     <img src="https://img.shields.io/badge/TypeScript-202124?style=for-the-badge&logo=typescript&logoColor=2f72bc"/>
@@ -58,6 +58,9 @@
     <img src="https://img.shields.io/badge/Express.js-202124?style=for-the-badge&logo=express&logoColor=e4d04b"/>
     <img src="https://img.shields.io/badge/JWT-202124?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=ee0156"/>
     <img src="https://img.shields.io/badge/npm-202124?style=for-the-badge&logo=npm&logoColor=CB3837"/>
+    <img src="https://img.shields.io/badge/npm-202124?style=for-the-badge&logo=npm&logoColor=CB3837"/>
+    <img src="https://img.shields.io/badge/eslint-202124?style=for-the-badge&logo=eslint&logoColor=3A33D1"/>
+    <img src="https://img.shields.io/badge/prettier-202124?style=for-the-badge&logo=prettier&logoColor=F7BA3E"/>
   </p>
 </p>
 
@@ -78,6 +81,7 @@
     <img src="https://img.shields.io/badge/Figma-202124?style=for-the-badge&logo=Figma&logoColor=F24E1E"/>
     <img src="https://img.shields.io/badge/Chrome_DevTools-202124?style=for-the-badge&logo=Google-chrome&logoColor=dd3123"/>
     <img src="https://img.shields.io/badge/Firebase-202124?style=for-the-badge&logo=Firebase&logoColor=FFCA28"/>
+    <img src="https://img.shields.io/badge/jira-202124?style=for-the-badge&logo=jira&logoColor=0052CC"/>
     <img src="https://img.shields.io/badge/Netlify-202124?style=for-the-badge&logo=netlify&logoColor=00C7B7"/>
     <img src="https://img.shields.io/badge/Heroku-202124?style=for-the-badge&logo=heroku&logoColor=625d9d"/>
     <img src="https://img.shields.io/badge/Vercel-202124?style=for-the-badge&logo=vercel&logoColor=000000"/>
