@@ -54,6 +54,7 @@
     <img src="https://img.shields.io/badge/Tailwind_CSS-202124?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4"/>
     <img src="https://img.shields.io/badge/Daisy_UI-202124?style=for-the-badge&logo=tailwind-css&logoColor=550deb"/>
     <img src="https://img.shields.io/badge/bootstrap-202124?&style=for-the-badge&logo=bootstrap&logoColor=7952B3"/>
+    <img src="https://img.shields.io/badge/Ant_Design-202124?style=for-the-badge&logo=ant-design&logoColor=1283ff"/>
     <img src="https://img.shields.io/badge/Material_UI-202124?style=for-the-badge&logo=mui&logoColor=007FFF"/>
     <img src="https://img.shields.io/badge/Express.js-202124?style=for-the-badge&logo=express&logoColor=e4d04b"/>
     <img src="https://img.shields.io/badge/JWT-202124?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=ee0156"/>
